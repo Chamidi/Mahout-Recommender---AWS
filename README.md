@@ -1,4 +1,4 @@
-# Mahout-Recommender---AWS
+# Mahout-Recommender-AWS
 Building a Recommender with Apache Mahout on Amazon Elastic MapReduce (EMR)
 
 **Step 1 : Building up the data set**
