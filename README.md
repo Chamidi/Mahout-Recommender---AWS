@@ -55,4 +55,6 @@ curl localhost:8090/37
 Terminate all aws services once the work is over 
 ```
 
+AWS Project Link : https://aws.amazon.com/blogs/big-data/building-a-recommender-with-apache-mahout-on-amazon-elastic-mapreduce-emr/a
+
 
